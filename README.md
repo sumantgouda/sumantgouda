@@ -12,3 +12,5 @@ I enjoy turning raw data into meaningful insights that support business decision
 * Data Analysis: Excel, Power Query
 * Data Visualization: Power BI
 * Statistics: Descriptive & Inferential Statistics
+
+## 📫 You can reach me at sumantgouda65@gmail.com
