@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there 👋</h1>
+<p align="center">Hey there 👋</p>
 
-### I'm thrilled to have you here! 🚀
+<h1 align="center">I'm thrilled to have you here! 🚀</h1>
 
