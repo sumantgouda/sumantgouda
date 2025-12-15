@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align=center>Hey there 👋</h1><br><p align=center </p>I'm thrilled to have you here! 🚀<br>👋 Hi, I'm Sumant Gouda<br>📊 Data Analyst | SQL | Python | Excel | Power BI<br>I am an aspiring Data Analyst with strong knowledge of data analysis, visualization, and database querying. I enjoy turning raw data into meaningful insights that support business decisions.<br><br>🛠️ Skills & Tools<br>Programming: Python<br>Databases: SQL (MySQL)<br>Data Analysis: Excel, Power Query<br>Data Visualization: Power BI<br>Statistics: Descriptive & Inferential Statistics<br>📫 You can reach me at sumantgouda65@gmail.com
+<h1 align=center>Hey there 👋</h1><br><h3 align=center> I'm thrilled to have you here! 🚀</h3><br>👋 Hi, I'm Sumant Gouda<br>📊 Data Analyst | SQL | Python | Excel | Power BI<br>I am an aspiring Data Analyst with strong knowledge of data analysis, visualization, and database querying. I enjoy turning raw data into meaningful insights that support business decisions.<br><br>🛠️ Skills & Tools<br>Programming: Python<br>Databases: SQL (MySQL)<br>Data Analysis: Excel, Power Query<br>Data Visualization: Power BI<br>Statistics: Descriptive & Inferential Statistics<br>📫 You can reach me at sumantgouda65@gmail.com
 
 
 ## 🌐 Socials:
